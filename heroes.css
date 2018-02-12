@@ -1,0 +1,16 @@
+body {
+  /* XXX how do we mark background images with element timing? */
+  background:white url('heroes-bg.jpg') no-repeat left top;
+  background-size: cover;
+  color: white;
+  font-family: 'BioRhyme Expanded', serif;
+}
+
+img.vignette {
+  height: 200px; width: 180px;
+  float:right;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+}
